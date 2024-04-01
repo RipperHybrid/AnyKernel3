@@ -4,17 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Auto-Kernel-Builder For Realme 8 Nashc
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=RMX3085L1
+device.name2=RMX3085
+device.name3=nashc
+device.name4=
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
